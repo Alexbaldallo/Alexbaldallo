@@ -7,4 +7,4 @@
 
 > Proyectos
 <h2>Motosprint Manager</h2>
-![Motosprint dashboard](./motosprint.png)
+![Motosprint dashboard](motosprint.png)
