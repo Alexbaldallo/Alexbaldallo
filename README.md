@@ -7,4 +7,4 @@
 
 > Proyectos
 <h2>Motosprint Manager</h2>
-<span>![</span><span>Motosprint Manager</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://raw.githubusercontent.com/Alexbaldallo/Alexbaldallo/main/motosprint.png)</span><span>)</span>
+![Motosprint dashboard](https://raw.githubusercontent.com/Alexbaldallo/Alexbaldallo/main/motosprint.png)
