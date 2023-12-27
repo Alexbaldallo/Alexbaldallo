@@ -7,4 +7,4 @@
 
 > Proyectos
 <h2>Motosprint Manager</h2>
-![Motosprint dashboard](motosprint.png)
+![motosprint](https://github.com/Alexbaldallo/Alexbaldallo/assets/73352837/cb9524a1-1998-41fc-a5b6-7e317cc2a672)
