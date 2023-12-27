@@ -7,7 +7,7 @@
 
 > Proyectos
 <h2>Motosprint Manager</h2>
+Gestor de resguardos de depósito y citas para un taller de motos realizado en Django.
 
 ![motosprint](https://github.com/Alexbaldallo/Alexbaldallo/assets/73352837/cb9524a1-1998-41fc-a5b6-7e317cc2a672)
 
-Gestor de resguardos de depósito y citas para un taller de motos realizado en Django.
